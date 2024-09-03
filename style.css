@@ -145,7 +145,7 @@ color: #fff;
 @media screen and (max-width: 600px) 
 {
 img {
-    max-width: 110%;
+    max-width: 150%;
     height: auto;
 }
 
